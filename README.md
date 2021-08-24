@@ -5,7 +5,7 @@ Note: You do not have to present or hand in anything for this assignment. The go
 
 ## Installing ParaView
 
-To install ParaView, the easiest way is to download a binary version of the software from [here](https://www.paraview.org/download/). Binaries are available for Windows, Linux, and MacOS. For this course, you should use the latest stable version (ParaView 5.8.1 as of 2020-09-15).
+To install ParaView, the easiest way is to download a binary version of the software from [here](https://www.paraview.org/download/). Binaries are available for Windows, Linux, and MacOS. For this course, you should use the latest stable version (ParaView 5.9.1 as of 2021-08-24).
 
 If you download the software as a zip-file or tar-ball, just extract the archive somewhere and run paraview from the bin-folder. If you use an installer or disk image, just click on the file and follow the instructions.
 
